@@ -12,5 +12,5 @@ Have a Look at my repos and maybe contribute as well! :smiley:
 
 📫 How to reach me: Send in a message on [Linkedin](https://www.linkedin.com/in/milan-mandal-2001/) or reach me on gmail at milanmandal2001@gmail.com
 
-[![Milan's github stats](https://github-readme-stats.vercel.app/api?username=milanmandal&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Milan's github stats](https://github-readme-stats.vercel.app/api?username=milanmandal&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
