@@ -1,7 +1,7 @@
 # Milan Mandal
 
-[<img src="https://1000logos.net/wp-content/uploads/2017/03/Color-of-the-LinkedIn-Logo.jpg" width = "70">](https://www.linkedin.com/in/milan-mandal-2001/)
-[<img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-superJumbo-v4.jpg" width ="75">](https://twitter.com/Milan_Mandal05)
+[<img src="https://1000logos.net/wp-content/uploads/2017/03/Color-of-the-LinkedIn-Logo.jpg" width = "69" border-radius = "50px">](https://www.linkedin.com/in/milan-mandal-2001/)
+[<img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-superJumbo-v4.jpg" width ="75" border-radius = "50px">](https://twitter.com/Milan_Mandal05)
 
 Currently pursuing B.Tech in Electronics & Communication Engineering at Vellore Institute of Technology, Vellore
 
