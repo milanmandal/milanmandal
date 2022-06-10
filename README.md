@@ -28,7 +28,7 @@ Have a Look at my repos and maybe contribute as well! :smiley:
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
 <a> <img alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a> -->
-https://skills.thijs.gg/icons?i=cpp,py,mysql,js,html,css,mongodb,reactjs,nodejs)(https://skills.thijs.gg)
+(https://skills.thijs.gg/icons?i=cpp,py,mysql,js,html,css,mongodb,reactjs,nodejs)(https://skills.thijs.gg)
  </p>
 
 [![Milan's github stats](https://github-readme-stats.vercel.app/api?username=milanmandal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
