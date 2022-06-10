@@ -31,6 +31,6 @@
   <a> <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/></a>
   <a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
-<img width="300" height="500" src = "https://github-readme-stats.vercel.app/api?username=milanmandal&show_icons=true&theme=radical">
+<img width="450" height="500" src = "https://github-readme-stats.vercel.app/api?username=milanmandal&show_icons=true&theme=radical">
 
 [![Milan's Github Stats](https://github-readme-stats.vercel.app/api?username=milanmandal&show_icons=true&theme=radical&width=10)](https://github.com/anuraghazra/github-readme-stats)      ![Milan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=milanmandal&show_icons=true&locale=en&layout=compact&theme=radical)
