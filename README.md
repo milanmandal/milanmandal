@@ -7,7 +7,6 @@
   <img align="left" alt="Milan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=milanmandal.milanmandal)
 
 Currently pursuing B.Tech in Electronics & Communication Engineering at Vellore Institute of Technology, Vellore
 
