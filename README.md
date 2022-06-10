@@ -31,7 +31,6 @@ Have a Look at my repos and maybe contribute as well! :smiley:
 <a> <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></a>
 <a> <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/></a>
 <a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a> <img alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
  </p>
 
 [![Milan's github stats](https://github-readme-stats.vercel.app/api?username=milanmandal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
