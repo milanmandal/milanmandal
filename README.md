@@ -6,16 +6,15 @@
 <a href="https://www.linkedin.com/in/milan-mandal-2001/">
   <img align="left" alt="Milan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<br/>
 
+- 👨🏽‍💻 Currently pursuing B.Tech in Electronics & Communication Engineering at Vellore Institute of Technology, Vellore
 
-Currently pursuing B.Tech in Electronics & Communication Engineering at Vellore Institute of Technology, Vellore
+- 🌱 Full-Stack Web developer using the MERN stack. I have a Beginner level experience in Software Development using ElectronJS
 
-Full-Stack Web developer using the MERN stack. I have a Beginner level experience in Software Development using ElectronJS
+- ⚡️ Have a Look at my repos and maybe contribute as well! :smiley:
 
-Have a Look at my repos and maybe contribute as well! :smiley:
-
-
-📫 How to reach me: Send in a message on [Linkedin](https://www.linkedin.com/in/milan-mandal-2001/) or reach me on gmail at milanmandal2001@gmail.com
+- 📫 How to reach me: Send in a message on [Linkedin](https://www.linkedin.com/in/milan-mandal-2001/) or reach me on gmail at milanmandal2001@gmail.com
 
 ## Languages and Tools ⚙
 <p align="center"> 
