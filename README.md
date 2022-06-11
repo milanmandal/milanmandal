@@ -10,7 +10,7 @@
 
 - 👨🏽‍💻 Currently pursuing B.Tech in Electronics & Communication Engineering at Vellore Institute of Technology, Vellore
 
-- 🌱 Full-Stack Web developer using the MERN stack. I have a Beginner level experience in Software Development (Desktop App) using ElectronJS
+- 🌱 Full-Stack Web developer using the MERN stack. Beginner level experience in Software Development (Desktop App) using ElectronJS
 
 - ⚡️ Have a Look at my repos and maybe contribute as well! :smiley:
 
